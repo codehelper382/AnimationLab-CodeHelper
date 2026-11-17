@@ -1,0 +1,21 @@
+# Third-party animation/model copies and extracted clips remain LOCAL, not in GitHub.
+**/*.fbx
+**/*.fbx.meta
+**/*.anim
+**/*.anim.meta
+**/Humanoid.meta
+EquipmentAssets/Melee/Fists/Animations.meta
+EquipmentAssets/Firearms/AK12/Animations.meta
+**/Knife_Bake.json
+**/Knife_Bake.json.meta
+**/Legacy/
+**/Legacy.meta
+# Local/editor credentials and temporary exports
+.env
+.env.*
+*.log
+*.zip
+*.unitypackage
+*.pfx
+*.pem
+*.key

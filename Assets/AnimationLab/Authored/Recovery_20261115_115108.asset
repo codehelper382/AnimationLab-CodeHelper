@@ -1,0 +1,1178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f22ea563aecdc64a82765e5ba74df56, type: 3}
+  m_Name: Recovery_20261115_115108
+  m_EditorClassIdentifier: Assembly-CSharp::CodeHelper.AnimationLab.AnimationLabTake
+  slot: 0
+  equipmentId: AK12
+  kind: 5
+  action: {fileID: 7171703957473852496}
+  hasSourceCharacterClip: 1
+  sourceCharacterClip: {fileID: 0}
+  sourceCharacterMask: {fileID: 0}
+  hasSourceWeaponClip: 1
+  sourceWeaponClip: {fileID: 0}
+  left: []
+  right: []
+  weapon: []
+  weaponDynamics:
+    applied: 0
+    intensity: 0.55
+    compiledPosition:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    compiledRotation:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    sourceKeys: []
+    sourcePosition:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    sourceRotation:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+  parts: []
+  props: []
+  anchors: []
+  leftContactMotion: 0
+  rightContactMotion: 0
+  reload:
+    template: 0
+    side: 0
+    objectId: 
+    hasRest: 0
+    hasContact: 0
+    hasOutside: 0
+    restPosition: {x: 0, y: 0, z: 0}
+    restEuler: {x: 0, y: 0, z: 0}
+    contactPosition: {x: 0, y: 0, z: 0}
+    contactEuler: {x: 0, y: 0, z: 0}
+    outsidePosition: {x: 0, y: 0, z: 0}
+    outsideEuler: {x: 0, y: 0, z: 0}
+    arc: {x: 0.04, y: 0, z: 0}
+    rounds: 3
+    duration: 2.4
+  handInsert:
+    template: 6
+    source: 0
+    side: 0
+    start: 0
+    end: 1
+    repetitions: 3
+    hasContact: 0
+    contactPosition: {x: 0, y: 0, z: 0}
+    contactEuler: {x: 0, y: 0, z: 0}
+    travel: {x: -0.18, y: -0.05, z: 0}
+    arc: 0.03
+    useStyle: 0
+    reachScale: 1
+    energy: 0.5
+    recovery: 0.5
+    thumb: 0.5
+    curvature: 1
+    settle: 0
+    gripPreset: -1
+    phaseTimes: []
+    phaseGrip: []
+    points:
+    - label: Inicio
+      time: 0
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: 0, y: 0, z: 0}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: "Aproximaci\xF3n"
+      time: 0.20833333
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: 0, y: 0, z: 0}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Contacto
+      time: 0.29166666
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: -0.030000016, y: -0.0000000018626451, z: -6.585446e-10}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 1
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Suministro / cartucho
+      time: 0.36041665
+      position: {x: 0.05000028, y: -0.12727906, z: 0.12727922}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: -0.030000016, y: -0.0000000018626451, z: -6.585446e-10}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Contacto / cartucho
+      time: 0.44444445
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: -0.030000016, y: -0.0000000018626451, z: -6.585446e-10}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Suministro / cartucho
+      time: 0.51319444
+      position: {x: 0.05000025, y: -0.12727907, z: 0.1272792}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: -0.030000016, y: -0.0000000018626451, z: -6.585446e-10}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Contacto / cartucho
+      time: 0.5972222
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: -0.030000016, y: -0.0000000018626451, z: -6.585446e-10}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Suministro / cartucho
+      time: 0.66597223
+      position: {x: 0.050000265, y: -0.12727904, z: 0.12727922}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: -0.030000016, y: -0.0000000018626451, z: -6.585446e-10}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: "Inserci\xF3n / anclaje"
+      time: 0.75
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: 0, y: 0, z: 0}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Liberar
+      time: 0.875
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: 0, y: 0, z: 0}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+    - label: Regreso
+      time: 1
+      position: {x: 0.00000019371511, y: 0.00000020810012, z: -0.000000007902546}
+      euler: {x: -0.000002613802, y: -0.000018930814, z: -0.0000078414}
+      bend: {x: 0, y: 0, z: 0}
+      mode: 5
+      grip: -1
+      departureSpeed: 0
+      arrivalSpeed: 0
+      contactAnchor: 0
+      outgoing: {x: 0, y: 0, z: 0}
+      incoming: {x: 0, y: 0, z: 0}
+      hasReference: 0
+      referencePosition: {x: 0, y: 0, z: 0}
+      referenceEuler: {x: 0, y: 0, z: 0}
+  ak12Reload:
+    configured: 0
+    applied: 0
+    duration: 3.6
+    phaseEnds:
+    - 0.083333336
+    - 0.19444445
+    - 0.44444445
+    - 0.7222222
+    - 1
+    approach: 2
+    coordinateMagazine: 1
+    charge: 1
+    flow: 0.75
+    anticipation: 0.7
+    presentation: 1
+    clearance: 0.07
+    arc: 0.035
+    supplyOffset: {x: 0, y: 0, z: 0}
+    supplyEuler: {x: 0, y: 0, z: 0}
+    weaponOffset: {x: 0, y: 0, z: 0}
+    weaponEuler: {x: 0, y: 0, z: 0}
+    magazineContactOffset: {x: 0, y: 0, z: 0}
+    magazineContactEuler: {x: 0, y: 0, z: 0}
+    chargeContactOffset: {x: 0, y: 0, z: 0}
+    chargeContactEuler: {x: 0, y: 0, z: 0}
+    stages:
+    - position: {x: 0, y: 0, z: 0}
+      euler: {x: 0, y: 0, z: 0}
+    - position: {x: 0, y: 0, z: 0}
+      euler: {x: 0, y: 0, z: 0}
+    - position: {x: 0, y: 0, z: 0}
+      euler: {x: 0, y: 0, z: 0}
+    - position: {x: 0, y: 0, z: 0}
+      euler: {x: 0, y: 0, z: 0}
+    - position: {x: 0, y: 0, z: 0}
+      euler: {x: 0, y: 0, z: 0}
+--- !u!114 &7171703957473852496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a261c2a15b1480ab5600c1bfbbce8d6, type: 3}
+  m_Name: Action
+  m_EditorClassIdentifier: Assembly-CSharp::CodeHelper.ProceduralShooterFramework.Equipment.EquipmentActionDefinition
+  characterClip: {fileID: 0}
+  characterMask: {fileID: 0}
+  weaponClip: {fileID: 0}
+  leftHandTargetMotion: {fileID: 0}
+  leftHandMotion:
+    enabled: 0
+    reach:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    position:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    rotation:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    motionClip: {fileID: 0}
+  rightHandMotion:
+    enabled: 0
+    reach:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    position:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    rotation:
+      x:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      y:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      z:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+    motionClip: {fileID: 0}
+  followAnimatedRightHand: 0
+  duration: 3.3000002
+  blendIn: 0.08
+  blendOut: 0.08
+  commitTime: 0.5
+  canCancel: 1
+  leftGrip:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  rightGrip:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  leftIK:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  rightIK:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  weaponPosition:
+    x:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    y:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    z:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  weaponRotation:
+    x:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    y:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    z:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4

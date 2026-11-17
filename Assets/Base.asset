@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 928d52f3fb608fa4490a2dfc1b3e825b, type: 3}
+  m_Name: Base
+  m_EditorClassIdentifier: Assembly-CSharp::CodeHelper.ProceduralShooterFramework.Animation.SpineLookProfile
+  autoDistribute: 1
+  pitchTotal: 70
+  yawTotal: 90
+  rollTotal: 30
+  pitchElements:
+  - humanBone: 7
+    customBone: 
+    clampedAngle: {x: 17, y: 17}
+    lockAngle: 0
+    recoilFactor: 0
+    offsetEuler: {x: 0, y: 0, z: 0}
+    ignoreClipSample: 0
+    cachedAngle: {x: 17, y: 17}
+  - humanBone: 8
+    customBone: 
+    clampedAngle: {x: 17, y: 17}
+    lockAngle: 0
+    recoilFactor: 0
+    offsetEuler: {x: 0, y: 0, z: 0}
+    ignoreClipSample: 0
+    cachedAngle: {x: 17, y: 17}
+  - humanBone: 54
+    customBone: 
+    clampedAngle: {x: 17, y: 17}
+    lockAngle: 0
+    recoilFactor: 0
+    offsetEuler: {x: 0, y: 0, z: 0}
+    ignoreClipSample: 0
+    cachedAngle: {x: 17, y: 17}
+  - humanBone: 9
+    customBone: 
+    clampedAngle: {x: 17, y: 17}
+    lockAngle: 0
+    recoilFactor: 0
+    offsetEuler: {x: 0, y: 0, z: 0}
+    ignoreClipSample: 0
+    cachedAngle: {x: 17, y: 17}
+  - humanBone: 10
+    customBone: 
+    clampedAngle: {x: 17, y: 17}
+    lockAngle: 0
+    recoilFactor: 0
+    offsetEuler: {x: 0, y: 0, z: 0}
+    ignoreClipSample: 0
+    cachedAngle: {x: 17, y: 17}
+  yawElements:
+  - humanBone: 8
+    customBone: 
+    clampedAngle: {x: 22.5, y: 22.5}
+    lockAngle: 0
+    recoilFactor: 0
+    offsetEuler: {x: 0, y: 0, z: 0}
+    ignoreClipSample: 0
+    cachedAngle: {x: 22.5, y: 22.5}
+  - humanBone: 54
+    customBone: 
+    clampedAngle: {x: 67.5, y: 67.5}
+    lockAngle: 0
+    recoilFactor: 0
+    offsetEuler: {x: 0, y: 0, z: 0}
+    ignoreClipSample: 0
+    cachedAngle: {x: 67.5, y: 67.5}
+  rollElements: []

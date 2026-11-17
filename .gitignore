@@ -1,0 +1,73 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Unity Editor generated files
+*.pidb
+*.booproj
+*.svcl
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.DS_Store
+*.meta
+*.orig
+*.log
+*.cache
+
+# Build outputs
+/Build/
+/Builds/
+/build/
+/builds/
+
+# Visual Studio / Rider / VSCode
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Unity Package Manager
+Packages/
+packages-lock.json
+
+# Unity 2019+ generated
+ProjectSettings/
+ProjectSettings/*.asset
+
+# Local user settings
+UserSettings/
+UserSettings/*.asset
+
+# AnimationsLab specific
+AnimationLab.Validation.unitypackage
+AnimationLab.Preview.png
+VALIDACION.md
+PROJECT_SPLIT_REPORT.json
+LOCAL_COPY_MANIFEST.json
+Abrir laboratorio.cmd
+*.csproj
+*.sln
+skills-lock.json
+
+# Video tutorials
+Videotutorial AnimationLab/
+Analisis referencias recarga/
+Asistente recarga AK12/
+Piloto recarga AK12/
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
